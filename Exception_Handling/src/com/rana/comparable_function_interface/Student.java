@@ -1,4 +1,4 @@
-package com.rana.function_interface;
+package com.rana.comparable_function_interface;
 
 public record Student(Integer id,String name,Double marks) implements Comparable<Student>
 {

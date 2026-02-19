@@ -1,4 +1,4 @@
-package com.rana.function_interface;
+package com.rana.comparable_function_interface;
 
 import java.util.Arrays;
 import java.util.Scanner;
