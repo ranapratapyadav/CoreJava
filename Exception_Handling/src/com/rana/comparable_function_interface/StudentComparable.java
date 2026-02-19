@@ -1,6 +1,16 @@
 package com.rana.comparable_function_interface;
 
 import java.util.Arrays;
+/*
+ Create a record called Student, which accepts id, name and marks as a component.
+
+Create an ELC class StudentComparable with main method.
+
+Create a Student array with dynamic size and dynamic array initialization using IO class
+Insert at-least 5 Student Object.
+
+Sort the Student Object based on Student Marks.
+ */
 import java.util.Scanner;
 
 public class StudentComparable {

@@ -3,7 +3,19 @@ package com.rana.comparator_functional_interface;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
+/*
+  Create a record called Customer, which accepts id, name and bill as a component.
 
+Create an ELC class CustomerComparator with main method.
+
+Create a Customer array with dynamic size and dynamic array initialization using IO class. 
+
+Sort the Customer object based on following criteria :
+
+  a) By using Customer id
+  b) By using Customer name
+  c) By using Customer bill
+ */
 public class CustomerComparator {
 
 	public static void main(String[] args) 
