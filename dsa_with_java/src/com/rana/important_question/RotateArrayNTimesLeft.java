@@ -2,7 +2,7 @@ package com.rana.important_question;
 
 import java.util.Scanner;
 
-public class RotateArrayNTimes 
+public class RotateArrayNTimesLeft 
 {
 	@SuppressWarnings("resource")
 	public static void main(String[] args) 
@@ -23,6 +23,7 @@ public class RotateArrayNTimes
 		
 		System.out.println("Enter the number of iterator.");
 		int k=sc.nextInt();
+		k=k%size;
 		
 		
 		int []newArray=new int[size];
