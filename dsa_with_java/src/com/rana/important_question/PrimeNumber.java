@@ -3,7 +3,7 @@ package com.rana.important_question;
 public class PrimeNumber {
 
 	public static void main(String[] args) {
-		int n=1;
+		int n=31;
 		int count =0;
 		for(int i=1;i<=n;i++)
 		{
